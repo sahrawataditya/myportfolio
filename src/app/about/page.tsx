@@ -32,7 +32,7 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="info-item padd-15">
                       <p>
-                        Website : <span>www.adityasahrawat.vercel.app</span>
+                        Website : <span>adityasahrawat.vercel.app</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
